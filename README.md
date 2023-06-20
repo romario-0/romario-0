@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @romario-0
 - 👀 I’m interested in solving logical problems
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on Front end development
+- 🌱 I’m currently learning React js and Java
+- 💞️ I’m looking to collaborate on Software Developer Role
 - 📫 mail : merin.romario65@gmail.com | mobile : 9619232971
 
 <!---
